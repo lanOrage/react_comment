@@ -1,0 +1,12 @@
+li{
+    transition: .5s;
+    overflow: hidden;
+}
+.handle{
+    position: absolute;
+    right: 10px;
+    top: 15px;
+}
+.uesr{
+    font-size: 22px;
+}
